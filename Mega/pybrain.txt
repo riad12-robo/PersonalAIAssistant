@@ -1,0 +1,19 @@
+PyBrain stands for python based reinforcement learning, artificial learning,neural networks.
+                                            Raw data
+                                           processing
+                        PyBrain Dataset trains          PyBrain Dataset test
+            network         trainer
+                        classification                  validating test data        Visualization
+                                                        result
+
+
+A layout of a simple neural network as follows --
+
+Input layer     hidden layer    output layer 
+    2               4               1
+#pybrain supports neural network such as feed-forwars network, recurrent network, etc
+
+
+Feed forward network layout
+Input layer      hidden layer        output
+    4               4                   1
